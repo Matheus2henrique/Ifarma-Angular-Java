@@ -22,3 +22,6 @@ O Ifarma é uma aplicação web desenvolvida para gerenciar operações farmacê
 * Geração de relatórios
 
 * Interface responsiva e intuitiva
+
+
+Primeiro projeto Full Stack 
